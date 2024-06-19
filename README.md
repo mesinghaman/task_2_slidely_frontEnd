@@ -17,6 +17,10 @@ The "View Submissions" form allows users to view and navigate through existing f
 - **Keyboard Shortcuts**: 
   - `Ctrl + P`: Displays the previous submission.
   - `Ctrl + N`: Displays the next submission.
+  - `Ctrl + U`: Displays the Update submission.
+  - `Ctrl + D`: Displays the delete submission.
+  - `Ctrl + S`: Displays the submit updated submission.
+
 
 ## Create New Submission Form
 
