@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a form management system for Slidely, featuring two main forms: "View Submissions" and "Create New Submission". Below are the details of each form's functionalities.
+This project implements a form management system for Slidely, featuring two main n forms: "View Submissions" and "Create New Submission". Below are the details of each form's functionalities.
 
 ## View Submissions Form
 
